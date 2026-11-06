@@ -1,0 +1,12 @@
+body{
+    background-color: ;
+}
+#profile{
+    background-color:aqua;
+    align-items: center;
+
+}
+#profile.name{
+    align-items: center;
+    justify-items: auto;
+}
